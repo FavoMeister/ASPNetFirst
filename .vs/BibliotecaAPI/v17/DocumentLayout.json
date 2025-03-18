@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\favio\\onedrive\\escritorio\\asp.netprojects\\bibliotecaapi\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\favio\\onedrive\\escritorio\\asp.netprojects\\bibliotecaapi\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\favio\\onedrive\\escritorio\\asp.netprojects\\bibliotecaapi\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\favio\\onedrive\\escritorio\\asp.netprojects\\bibliotecaapi\\bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\favio\\onedrive\\escritorio\\asp.netprojects\\bibliotecaapi\\bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\favio\\onedrive\\escritorio\\asp.netprojects\\bibliotecaapi\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250317202844_TablaLibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BibliotecaAPI\\Migrations\\20250317202844_TablaLibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\favio\\onedrive\\escritorio\\asp.netprojects\\bibliotecaapi\\bibliotecaapi\\migrations\\20250316191723_tablaautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B0467-ED50-4D32-9920-1506C4CDC9DC}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\migrations\\20250316191723_tablaautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Libro.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Entidades\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:42:57.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:09:32.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\AutoresController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:21:47.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250317202844_TablaLibros.cs",
+              "DocumentMoniker": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250317202844_TablaLibros.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Migrations\\20250317202844_TablaLibros.cs",
+              "ToolTip": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250317202844_TablaLibros.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Migrations\\20250317202844_TablaLibros.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:28:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Datos\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Datos\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Datos\\ApplicationDBContext.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Datos\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:48:51.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250316191723_TablaAutores.cs",
+              "DocumentMoniker": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250316191723_TablaAutores.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Migrations\\20250316191723_TablaAutores.cs",
+              "ToolTip": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250316191723_TablaAutores.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Migrations\\20250316191723_TablaAutores.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:17:23.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Entidades\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:24:56.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\favio\\OneDrive\\Escritorio\\ASP.NetProjects\\BibliotecaAPI\\BibliotecaAPI\\Program.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:10:05.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
