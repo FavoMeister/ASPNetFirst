@@ -27,6 +27,12 @@ namespace BibliotecaAPI.Controllers
             return await context.Autores.ToListAsync();
         }
 
+        [HttpGet("primero")]
+        public async Task<Autor> GetPrimerAutor()
+        {
+            return await context.Autores.FirstAsync();
+        }
+
         [HttpGet("{id:int}")] //difference between the other get
         public async Task<ActionResult<Autor>> Get(int id)
         {
@@ -40,6 +46,12 @@ namespace BibliotecaAPI.Controllers
             }
 
             return autor;
+        }
+
+        [HttpGet("{nombre:alpha}")]
+        public async Task<IEnumerable<Autor>> Get(string nombre)
+        {
+            return await context.Autores.Where(x => x.Nombre.Contains(nombre)).ToListAsync();
         }
 
         [HttpPost] //Action
