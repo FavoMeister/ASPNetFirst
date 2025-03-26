@@ -58,7 +58,7 @@ namespace BibliotecaAPI.Controllers
         public async Task<ActionResult> Post(Autor autor)
         {
             context.Add(autor);
-            await context.SaveChangesAsync(); //operator allows you to send the query and not wait until the answer
+            await context.SaveChangesAsync(); // operator allows you to send the query and not wait until the answer
             return Ok();
         }
 
